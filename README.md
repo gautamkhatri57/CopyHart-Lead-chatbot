@@ -1,33 +1,54 @@
-# CopyHart Lead Chatbot
+# CopyHart Lead Management Chatbot
 
-An AI-powered chatbot developed for CopyHart Services to interact with visitors, answer service-related queries, and capture potential leads.
+A professional chatbot and lead management system developed for **CopyHart Services** to help visitors explore services, select requirements, and submit enquiries.
 
-## Features
+## 🚀 Features
 
-- 🤖 AI-powered chatbot
-- 💬 Answers CopyHart service-related queries
-- 📋 Lead information collection
-- 🌐 Web-based chatbot interface
-- ⚡ Fast and interactive responses
-- 🔗 Backend API integration
+- Interactive chatbot
+- Service-wise requirement selection
+- Customer lead collection
+- MySQL database integration
+- Secure admin login
+- Lead management dashboard
+- Logout functionality
 
-## Technologies Used
+## 💼 Services
 
-- HTML
-- CSS
+- Trademark Registration
+- Copyright Registration
+- GST Registration
+- FSSAI / Food License
+- ISO Certification
+- Brand Identity
+- Legal Consulting
+
+## 🛠️ Technologies
+
+- HTML5
+- CSS3
 - JavaScript
-- Python
-- FastAPI
-- AI/LLM API
+- PHP
+- MySQL
 
-## Project Structure
+## 🔄 Workflow
 
 ```text
-CopyHart-Lead-Chatbot/
-│
-├── index.php
-├── chatbot.css
-├── chatbot.js
-├── backend/
-├── requirements.txt
-└── README.md
+Visitor
+  ↓
+Chatbot
+  ↓
+Select Service
+  ↓
+Select Requirement
+  ↓
+Enter Details
+  ↓
+MySQL Database
+  ↓
+Admin Dashboard
+
+👨‍💻 Author
+Gautam Khatreiu
+BCA – Artificial Intelligence
+🏢 Developed For
+CopyHart Services
